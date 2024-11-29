@@ -1,0 +1,43 @@
+/*estilo para el encabezado*/
+header{
+    background-color: rgb(13, 141, 13);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+/*Estilo para la barra de navegacion*/
+nav a{
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+/*cambio de color cuando pasen el puntero sobre opcciones*/
+nav a:hover{
+    color: chocolate;
+}
+/*Estilo para la seccion principal*/
+.contendor{
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(0, 0, 130.1);
+}
+.contenedor h2{
+    color: #333;
+}
+.contenedor p{
+    color: #464242;
+    font-size: 16px;
+    line-height: 1.6;
+}
+/*Estilo pie de pagina*/
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
