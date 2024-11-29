@@ -17,7 +17,7 @@ nav a:hover{
     color: chocolate;
 }
 /*Estilo para la seccion principal*/
-.contendor{
+.contenedor{
     width: 90%;
     margin: 20px auto;
     padding: 15px;
@@ -39,5 +39,5 @@ footer{
     color: white;
     text-align: center;
     padding: 10px;
-    margin: 20px;
+    margin: 20px; 
 }
